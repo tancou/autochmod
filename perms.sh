@@ -5,5 +5,10 @@ echo 'Start autochmod'
 while :
 do
     chmod -R 777 /records
-    sleep 30
+    sleep 5
+    sleep 5
+    sleep 5
+    sleep 5
+    sleep 5
+    sleep 5
 done
